@@ -7,6 +7,8 @@
 
 2.Approach
   // two pointer approach
+  // tc=O(n)
+  
   i,j=a[0];
   if a[j]!=a[i]
   {
